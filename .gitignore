@@ -1,0 +1,13 @@
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+# Arquivos locais
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
