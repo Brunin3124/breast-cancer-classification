@@ -112,7 +112,7 @@ Na revisão, todas as 13 células de código foram executadas sequencialmente em
 
 ## Autoria e contexto acadêmico
 
-**Aluno:** Bruno Lima
+**Aluno:** Bruno Lima Felipe Serejo
 **Professor:** Ronaldo e Silva Vieira.  
 **Disciplina:** TN724 — Inteligência Artificial 2026.1.
 
